@@ -1,7 +1,17 @@
 {
   "name": "miraj-calculate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple calculator package to perform +, -, *, / operations",
+  "keywords": [
+    "calculate",
+    "math",
+    "calculator",
+    "add",
+    "subtract",
+    "multiply",
+    "divide",
+    "miraj"
+  ],
   "homepage": "https://github.com/mirajg/miraj-calculate#readme",
   "bugs": {
     "url": "https://github.com/mirajg/miraj-calculate/issues"
