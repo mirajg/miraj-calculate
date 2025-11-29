@@ -1,0 +1,23 @@
+{
+  "name": "miraj-calculate",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mirajg/miraj-calculate#readme",
+  "bugs": {
+    "url": "https://github.com/mirajg/miraj-calculate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirajg/miraj-calculate.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Miraj Gautam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
